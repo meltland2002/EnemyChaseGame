@@ -2,4 +2,4 @@
 
 Needs raylib.
 
-Made this in C++ to get better at it.
+*how the hell are you meant to do this?*
