@@ -1,2 +1,5 @@
 # EnemyChaseGame
-Made this in C++ to get better at it
+
+Needs raylib.
+
+Made this in C++ to get better at it.
